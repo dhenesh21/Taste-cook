@@ -1,0 +1,6 @@
+@Taste_cook_HostAddress = http://localhost:5073
+
+GET {{Taste_cook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
